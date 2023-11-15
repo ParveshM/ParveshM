@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parveshm" alt="parveshm" /></a> </p>
 
-- 🔭 I’m currently working on [LapshopPro](https://github.com/ParveshM/lapshoppro.git)
+- 🔭 I’m currently working on [DSA](https://github.com/ParveshM/DSA.git)
 
-- 🌱 I’m currently learning **Node.js , MongoDb, JavaScript**
+- 🌱 I’m currently learning **Node.js , MongoDb, JavaScript , DSA**
 
 - 💬 Ask me about **Js, MongoDb, Node**
 
