@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Muhammed Parvesh</h1>
-<h3 align="center">A passionate MEAN stack developer from Kerala,India.</h3>
+<h3 align="center">A passionate MERN stack developer from Kerala,India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ParveshM&label=Profile%20views&color=0e75b6&style=flat" alt="ParveshM" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ParveshM&theme=nord" alt="ParveshM" /></a> </p>
 
-- 🔭 I’m currently working on [DSA](https://github.com/ParveshM/DSA)
-- 🌱 I’m currently learning **Node.js , MongoDb, JavaScript , DSA**
-- 💬 Ask me about **Node.js , MongoDb, JavaScript**
+- 🔭 I’m currently working on [REACT]([https://github.com/ParveshM/DSA](https://github.com/ParveshM/React-.git))
+- 🌱 I’m currently learning **Node.js , MongoDb,Psql, JavaScript , DSA ,React**
+- 💬 Ask me about **Node.js , MongoDb, JavaScript, React**
 - 📫 How to reach me **muhammedparveshm@gmail.com**
 - 👨‍💻 All of my projects are available at **https://parveshm.github.io/Portfolio/**
 - ⚡ Fun fact **Light 💡 attracts bugs 🐞**
