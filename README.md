@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ParveshM&theme=nord" alt="ParveshM" /></a> </p>
 
-- 🔭 I’m currently working on [User_Management](https://github.com/ParveshM/User-Mangement-System-JWT.git)
+- 🔭 I’m currently working on [Dine Delight](https://github.com/ParveshM/Dine-Delight.git)
 - 🌱 I’m currently learning **Node.js , MongoDb,Psql, JavaScript , DSA ,React**
 - 💬 Ask me about **Node.js , MongoDb, JavaScript, React**
 - 📫 How to reach me **muhammedparveshm@gmail.com**
